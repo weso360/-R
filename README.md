@@ -1,6 +1,6 @@
  **README.md**
 
-# Keylogger Cybersecurity Research Project
+# Keylogger Research Project
 
 **Purpose:**
 
