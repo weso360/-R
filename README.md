@@ -1,6 +1,6 @@
  **README.md**
 
-# Keylogger for Educational Cybersecurity Research/Project
+# Keylogger Cybersecurity Research Project
 
 **Purpose:**
 
@@ -20,7 +20,7 @@ This Python code implements a basic keylogger designed for educational cybersecu
 
 **Educational Benefits:**
 
-- Understanding keylogger functionality enhances threat awareness and defensive strategies (My Next Project🤞).
+- Understanding keylogger functionality enhances threat awareness and defensive strategies (My Next Project🤞/Hopefully something cloud based/).
 - Hands-on experience with keyloggers can improve incident response and forensic analysis skills.
 
 **Code Usage:**
